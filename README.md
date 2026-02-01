@@ -1,6 +1,13 @@
-## Hi there 👋
+i have a website: [click here](https://blake-sama.com)
 
+fun facts about me:
+- i don't use my website often
+- most my repos are private
+- my best language is ???
 
+if you need to reach me, email [blake-sama@pm.me](mailto:blake-sama@pm.me)
+
+<img src="https://count.getloli.com/@Blake-sama?name=Blake-sama&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Blake-sama's visitor count"/>
 
 <!--
 **Blake-sama/Blake-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
